@@ -10,9 +10,5 @@ package dorsu.edu.ph;
  * @author ejay
  */
 public class Malas {
-    public static void main(String[] args){
-
-
-        
-    }
+    
 }
